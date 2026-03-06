@@ -1,2 +1,3 @@
-# kombako 
-(WORK IN PROGRESS)
+# Kombako
+
+Kombako is a community-driven learning platform designed to help users study and learn collaboratively. It offers a suite of study tools including flashcards, tests, and note-taking features to cater to different learning styles. Beyond traditional study methods, Kombako features original interactive games like Drawgame—a drawing guessing game inspired by Skribbl.io mechanics—that make learning engaging and fun. Whether you're preparing for exams or mastering new topics, Kombako combines social learning with innovative gaming to create a unique educational experience.
